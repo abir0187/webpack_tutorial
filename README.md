@@ -1,4 +1,6 @@
 # webpack_tutorial
+##Build
+Run ``` npm run build ``` 
 
 Are css extracted to a separate file? No style tag in head.
 Are js minified to a single bundle.js? 
