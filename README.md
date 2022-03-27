@@ -1,4 +1,4 @@
-# webpack_tutorial
+# Webpack Tutorial
 ##Build
 Run ``` npm run build ``` 
 
