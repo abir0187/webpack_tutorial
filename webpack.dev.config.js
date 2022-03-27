@@ -15,7 +15,7 @@ module.exports = {
         static:{
             directory: path.resolve(__dirname, './dist')
         },
-        devMiddlware: {
+        devMiddleware: {
             index: 'index.html',
             writeToDisk: true
         }
