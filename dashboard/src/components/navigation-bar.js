@@ -1,3 +1,5 @@
+import './navigation-bar.scss';
+
 class NavigationBar {
     render(navigationItems) {
         const listItems = navigationItems.map(navigationItem => {
