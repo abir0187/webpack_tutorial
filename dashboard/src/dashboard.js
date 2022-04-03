@@ -1,3 +1,5 @@
+import NavigationBar from "./components/navigation-bar";
+
 const navigationItems = [
     {
         url: '/hello-world-page',
